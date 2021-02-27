@@ -37,5 +37,5 @@ THEN the saved events persist
 
 https://raw.githubusercontent.com/CHANCEEWELL/day-planner-RE-SUBMIT/master/images/workday.png
 
-![](http://raw.githubusercontent.com/CHANCEEWELL/day-planner-RE-SUBMIT/master/images/workday.png/img.png)
+![](http://raw.githubusercontent.com/CHANCEEWELL/day-planner-RE-SUBMIT/master/images/workday.png/)
 
