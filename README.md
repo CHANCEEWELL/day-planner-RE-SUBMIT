@@ -33,5 +33,9 @@ THEN the text for that event is saved in local storage
 WHEN I refresh the page
 THEN the saved events persist
 ```
+## Screenshot of deployed app
 
+https://raw.githubusercontent.com/CHANCEEWELL/day-planner-RE-SUBMIT/master/images/workday.png
+
+![](http://raw.githubusercontent.com/CHANCEEWELL/day-planner-RE-SUBMIT/master/images/workday.png/img.png)
 
